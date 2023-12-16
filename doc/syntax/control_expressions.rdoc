@@ -268,7 +268,7 @@ The +while+ loop executes while a condition is true:
 
   p a
 
-Prints the numbers 0 through 10.  The condition <code>a < 10</code> is checked
+Prints the numbers 0 through 9.  The condition <code>a < 10</code> is checked
 before the loop is entered, then the body executes, then the condition is
 checked again.  When the condition results in false the loop is terminated.
 
